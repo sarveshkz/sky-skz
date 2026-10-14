@@ -1,2 +1,2 @@
 # sky-skz
-Git Github 
+Git Github padhenge.
